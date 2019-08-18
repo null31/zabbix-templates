@@ -1,5 +1,4 @@
 # MikroTik Templates
----
 
 ## MikroTik LTE
 **Monitoring features:**
@@ -8,4 +7,5 @@
 - Health (CPU util, RAM util/total, Voltage and Temperature)
 
 \* The graphs are already done.
+
 \* This template was tested with wAP LTE and should work fine with others LTE hardware like SXT, LHG, wAP and LtAP.
