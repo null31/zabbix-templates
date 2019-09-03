@@ -14,7 +14,7 @@
 **Monitoring features:**
 - Interfaces bandwidth (ether1 ~ ether5, wlan1)
 - Health (CPU util, RAM util/total)
-- Use macros to place Community Name, Auth and Encrypt keys
-- This template use SHA1 for auth and AES for encrypt
+- Uses macros to place Community Name, Auth and Encryption keys
+- This template uses SHA1 for auth and AES for encryption
 
 \* This template was tested with RB951Ui-2HnD.
